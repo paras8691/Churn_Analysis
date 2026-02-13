@@ -27,7 +27,7 @@ The goal of this project is to:
 
 - Power BI – Interactive Dashboard
 
-  # Dashboard (Power BI)
+# Dashboard (Power BI)
 
   The interactive dashboard includes:
 
@@ -41,7 +41,7 @@ The goal of this project is to:
 
 - Customer segmentation visuals
 
-  # Business Recommendations
+# Business Recommendations
 
   Offer incentives for long-term contracts
 
